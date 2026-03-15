@@ -47,25 +47,11 @@ Full-stack developer based in the Philippines — self-taught and shipping since
 
 - 📍 **Location:** Philippines
 - 📧 **Email:** [johnlester.0369@gmail.com](mailto:johnlester.0369@gmail.com)
-- 🟢 **Available for:** Freelance, remote roles, and open-source collaboration — [reach out](mailto:johnlester.0369@gmail.com)
+- 🟢 **Available for:** Freelance and remote roles — [reach out](mailto:johnlester.0369@gmail.com)
 
 ---
 
-### ⚡ Currently Building
-
-<!-- "Currently" section answers the evaluator's first implicit question: "is this person actively coding?" -->
-
-| 🔨 Project | 📌 Status | 🏁 Goal |
-|---|---|---|
-| **TaskFlow** | 🟡 In Progress | Unified task management across web + mobile with offline sync and auto-recovery |
-| **NestJS Architecture** | 📚 Deep-dive | Production-grade API patterns — guards, interceptors, microservice modules |
-| **Docker Orchestration** | 📚 Deep-dive | Multi-service deployments with compose, volumes, and health checks |
-
-> 💬 **Open to interesting engineering problems** — especially developer tooling, automation, and platform infrastructure.
-
----
-
-### 🛠️ Tech Stack
+### ️ Tech Stack
 
 <!-- skillicons.dev produces consistent bubble-style icons — more visually unified than mixed badge sizes/styles -->
 
@@ -145,79 +131,10 @@ Full-stack developer based in the Philippines — self-taught and shipping since
 
 ### 📊 GitHub Stats
 
-<!-- Streak stats: single most-checked signal for coding consistency — matches tokyonight theme -->
+<!-- Single top-languages card — compact layout surfaces real tech breadth across all repos; tokyonight preserves visual consistency with the rest of the profile -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnlester-0369&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<!-- Profile summary card: full contribution timeline — serves deep evaluators who want more than raw numbers -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnlester-0369&theme=tokyonight" alt="Profile summary card" />
-</p>
-
-<!-- Activity graph with area fill: contribution density over time, more readable than line-only -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlester-0369&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<!-- Snake animation — requires .github/workflows/snake.yml (included in this repo) to generate the SVG -->
-<!-- <picture> tag serves dark/light variants automatically based on viewer's GitHub theme preference -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnlester-0369/johnlester-0369/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnlester-0369/johnlester-0369/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://github.com/johnlester-0369/johnlester-0369/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🗓️ Experience
-
-<!-- <details> collapse: contributors and employers expand it; evaluators who want projects skip it entirely -->
-<details>
-<summary>🔍 <strong>View Full Experience Timeline</strong></summary>
-<br/>
-
-**Full-Stack Developer** · Self-Taught · Open Source &nbsp;&nbsp;`Oct 2025 – Present`
-
-Shipped 15+ applications in 5 months — mobile apps, automation bots, and full-stack platforms. Takes requirements from database schema to production UI without switching hands.
-
-> `React` · `TypeScript` · `Node.js` · `MongoDB` · `Docker`
-
----
-
-**Bot & Automation Engineer** · Open Source Projects &nbsp;&nbsp;`Nov 2025 – Mar 2026`
-
-Built automated messaging systems for Telegram, Discord, and Facebook. Engineered a plug-and-play architecture where new features deploy as isolated modules — zero downtime.
-
-> `Telegraf` · `Discord.js` · `TypeScript` · `Node.js`
-
----
-
-**Frontend Engineer** · Personal Projects &nbsp;&nbsp;`Oct 2025 – Feb 2026`
-
-Built lightweight, high-performance web apps entirely from scratch. Diagnosed and resolved browser-specific bugs — evidence of deep web internals knowledge, not just framework familiarity.
-
-> `JavaScript` · `ES Modules` · `CSS Custom Properties` · `Web APIs`
-
----
-
-**UmaruV4: Facebook Bot Author** · [rootalocalhost-dev/UmaruV4-Bot](https://github.com/rootalocalhost-dev/UmaruV4-Bot) &nbsp;&nbsp;`2023 – 2024`
-
-Architected a comprehensive Messenger bot from scratch: auto-translation across 130+ languages, a live monitoring web dashboard, and an optimized database layer.
-
-> `Node.js` · `Koa.js` · `Express.js` · `better-sqlite3` · `WebSocket` · `Bootstrap`
-
----
-
-**Umaru V2: Bot Modder** · Fork of MiraiV2 · Replit &nbsp;&nbsp;`2022 – 2023`
-
-Engineering origin story: adapted an open-source messaging bot, wrote original custom commands, and built a foundation in programming logic and API integration.
-
-> `Node.js` · `CommonJS` · `Axios` · `JSON` · `Replit`
-
-</details>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlester-0369&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages" width="60%"/>
+</table>
 
 ---
 
