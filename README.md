@@ -68,53 +68,6 @@ Full-stack developer based in the Philippines — self-taught and shipping since
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- HTML table allows multi-line cells — problem description fits without truncation -->
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Problem Solved</th>
-    <th>Tech</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/johnlester-0369/SimpleStock"><strong>SimpleStock</strong></a></td>
-    <td>Inventory systems with no single source of truth — complete management platform with visual analytics, enterprise-grade auth, and a dual-database strategy for reliability under load</td>
-    <td><code>React</code> · <code>TypeScript</code> · <code>Express</code> · <code>MongoDB</code> · <code>Docker</code></td>
-    <td><a href="https://simplestock-demo.onrender.com">🌐 Live Demo</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/johnlester-0369/link-shortener"><strong>link-shortener</strong></a></td>
-    <td>URL sharing exposes users to malicious redirects — fast shortener with strict link validation, separated frontend/backend architecture, and sub-second redirects</td>
-    <td><code>Next.js</code> · <code>NestJS</code> · <code>TypeScript</code> · <code>Firebase</code></td>
-    <td><a href="http://link-shortener-johnlester-0369.netlify.app">🌐 Live Demo</a></td>
-  </tr>
-</table>
-
-<!-- <details> collapse: evaluators see featured projects without scrolling through 6 more rows -->
-<details>
-<summary>📂 <strong>More Projects — click to expand</strong></summary>
-<br/>
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| [**TaskFlow**](https://github.com/johnlester-0369/todo-app) | Cross-platform task sync — single database, unified web + mobile, auto-recovers from network drops | `React` · `Expo` · `TypeScript` · `Express` · `Docker` | — |
-| [**TeleBot**](https://github.com/johnlester-0369/TeleBot) | Telegram bot with plug-and-play architecture — new commands integrate as isolated modules, zero downtime | `Node.js` · `Telegraf` · `JavaScript` | — |
-| [**Meme Generator**](https://johnlester-0369.github.io/meme-generator) | No-framework web app streaming live Reddit images — proves browser API depth without React as a crutch | `Vanilla JS` · `CSS Custom Properties` · `Reddit API` | [🌐 Live](https://johnlester-0369.github.io/meme-generator) |
-| [**Web Weather App**](https://johnlester-0369.github.io/web-weather-app) | 7-day location-aware weather dashboard with an internal state machine for loading and error states | `Vanilla JS` · `ES Modules` · `Open-Meteo API` | [🌐 Live](https://johnlester-0369.github.io/web-weather-app) |
-| [**Parrot-bot**](https://github.com/johnlester-0369/Parrot-bot) | First Discord bot — built after one month of learning TypeScript | `TypeScript` | — |
-| [**todo-react-app**](https://github.com/johnlester-0369/todo-react-app) | Clean, typed Todo app demonstrating full React + TypeScript patterns | `TypeScript` | — |
-
-<p align="center">
-  <a href="https://github.com/johnlester-0369?tab=repositories">📁 Go to my repositories to see all projects →</a>
-</p>
-
-</details>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
