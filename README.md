@@ -6,12 +6,12 @@
 <p align="center">
   <!-- Typing animation cycles role labels — evaluators grasp multi-discipline breadth in one glance -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Bot+%26+Automation+Engineer;Building+production-ready+systems;15%2B+projects+shipped+in+5+months" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Bot+%26+Automation+Engineer;Building+production-ready+systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <em>Self-taught engineer. 15+ projects shipped in 5 months. From database to UI — I build it all.</em>
+  <em>Self-taught engineer. From database to UI — I build it all.</em>
 </p>
 
 <p align="center">
