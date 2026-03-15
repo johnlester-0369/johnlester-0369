@@ -27,24 +27,6 @@
 
 Full-stack developer based in the Philippines — self-taught and shipping since October 2025. I build complete systems end-to-end: cross-platform mobile apps, automation bots, and production full-stack platforms with clean architecture and security built in from day one.
 
-<!-- 4-column table adds "months active" — makes the 15+ projects stat more impressive in context -->
-<table align="center">
-  <tr>
-    <td align="center"><strong>📦 Projects Shipped</strong></td>
-    <td align="center"><strong>⚡ Stack Breadth</strong></td>
-    <td align="center"><strong>🔧 Avg. Bug Fix Time</strong></td>
-    <td align="center"><strong>🗓️ Months Active</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>15+</strong> shipped</td>
-    <td align="center"><strong>20+</strong> tools & frameworks</td>
-    <td align="center"><strong>&lt; 24h</strong></td>
-    <td align="center"><strong>5+</strong> months</td>
-  </tr>
-</table>
-
-<br/>
-
 - 📍 **Location:** Philippines
 - 📧 **Email:** [johnlester.0369@gmail.com](mailto:johnlester.0369@gmail.com)
 - 🟢 **Available for:** Freelance and remote roles — [reach out](mailto:johnlester.0369@gmail.com)
