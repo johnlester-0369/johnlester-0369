@@ -129,15 +129,6 @@ Full-stack developer based in the Philippines — self-taught and shipping since
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Single top-languages card — compact layout surfaces real tech breadth across all repos; tokyonight preserves visual consistency with the rest of the profile -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlester-0369&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages" width="60%"/>
-</table>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
