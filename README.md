@@ -107,6 +107,10 @@ Full-stack developer based in the Philippines — self-taught and shipping since
 | [**Parrot-bot**](https://github.com/johnlester-0369/Parrot-bot) | First Discord bot — built after one month of learning TypeScript | `TypeScript` | — |
 | [**todo-react-app**](https://github.com/johnlester-0369/todo-react-app) | Clean, typed Todo app demonstrating full React + TypeScript patterns | `TypeScript` | — |
 
+<p align="center">
+  <a href="https://github.com/johnlester-0369?tab=repositories">📁 Go to my repositories to see all projects →</a>
+</p>
+
 </details>
 
 ---
