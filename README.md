@@ -118,7 +118,7 @@ Full-stack developer based in the Philippines — self-taught and shipping since
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **TaskFlow** | Cross-platform task sync — single database, unified web + mobile, auto-recovers from network drops | `React` · `Expo` · `TypeScript` · `Express` · `Docker` | — |
+| [**TaskFlow**](https://github.com/johnlester-0369/todo-app) | Cross-platform task sync — single database, unified web + mobile, auto-recovers from network drops | `React` · `Expo` · `TypeScript` · `Express` · `Docker` | — |
 | [**TeleBot**](https://github.com/johnlester-0369/TeleBot) | Telegram bot with plug-and-play architecture — new commands integrate as isolated modules, zero downtime | `Node.js` · `Telegraf` · `JavaScript` | — |
 | [**Meme Generator**](https://johnlester-0369.github.io/meme-generator) | No-framework web app streaming live Reddit images — proves browser API depth without React as a crutch | `Vanilla JS` · `CSS Custom Properties` · `Reddit API` | [🌐 Live](https://johnlester-0369.github.io/meme-generator) |
 | [**Web Weather App**](https://johnlester-0369.github.io/web-weather-app) | 7-day location-aware weather dashboard with an internal state machine for loading and error states | `Vanilla JS` · `ES Modules` · `Open-Meteo API` | [🌐 Live](https://johnlester-0369.github.io/web-weather-app) |
