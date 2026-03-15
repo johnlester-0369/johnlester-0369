@@ -10,19 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>Self-taught engineer. From database to UI — I build it all.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnlester-0369&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp;
-  <!-- Follower badge: social proof signal for evaluators deciding whether to follow -->
-  <img src="https://img.shields.io/github/followers/johnlester-0369?label=Followers&style=social" alt="followers" />
-</p>
-
----
-
 ### 🧑‍💻 About Me
 
 Full-stack developer based in the Philippines — self-taught and shipping since October 2025. I build complete systems end-to-end: cross-platform mobile apps, automation bots, and production full-stack platforms with clean architecture and security built in from day one.
